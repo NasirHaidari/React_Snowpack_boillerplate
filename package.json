@@ -1,7 +1,7 @@
 {
-  "name": "adtraction",
+  "name": ".",
   "version": "1.0.0",
-  "description": "adtraction with snowpack",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev",
